@@ -15,7 +15,7 @@ This is a classification project, and the goal is to diagnose whether or not a p
 - Exploratory data analysis using `matplotlib` and `seaborn`
 
 **2. Data preparation and pre-processing**
-- Zero / Inappropriate Values Tretment with Median values
+- Zero / Inappropriate Values Treatment with Median values
 
 **3. Modelling using sci-kit learn library**
 - Baseline model using `RandomForest` & `LogisticRegression` using default technique 
